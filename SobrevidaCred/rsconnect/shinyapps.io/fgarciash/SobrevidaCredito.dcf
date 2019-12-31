@@ -1,0 +1,12 @@
+name: SobrevidaCredito
+title: SobrevidaCredito
+username:
+account: fgarciash
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620537
+bundleId: 2694742
+url: https://fgarciash.shinyapps.io/SobrevidaCredito/
+when: 1577477531.893
+asMultiple: FALSE
+asStatic: FALSE

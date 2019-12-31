@@ -1,0 +1,12 @@
+name: CreSobrevida
+title: CreSobrevida
+username:
+account: fgarciash
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620374
+bundleId: 2694406
+url: https://fgarciash.shinyapps.io/CreSobrevida/
+when: 1577463527.1468
+asMultiple: FALSE
+asStatic: FALSE

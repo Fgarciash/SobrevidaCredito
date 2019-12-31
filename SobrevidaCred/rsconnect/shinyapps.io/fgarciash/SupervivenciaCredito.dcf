@@ -1,0 +1,12 @@
+name: SupervivenciaCredito
+title: SupervivenciaCredito
+username:
+account: fgarciash
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620521
+bundleId: 2694722
+url: https://fgarciash.shinyapps.io/SupervivenciaCredito/
+when: 1577476672.14913
+asMultiple: FALSE
+asStatic: FALSE

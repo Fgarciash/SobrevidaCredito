@@ -1,0 +1,12 @@
+name: survi
+title: survi
+username:
+account: fgarciash
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620557
+bundleId: 2694778
+url: https://fgarciash.shinyapps.io/survi/
+when: 1577479621.43204
+asMultiple: FALSE
+asStatic: FALSE
